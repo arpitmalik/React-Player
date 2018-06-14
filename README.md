@@ -5,8 +5,8 @@ A web app just like youtube made completely with React JS
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/arpitmalik/React-Player.git
+> cd React-Player
 > npm install
 > npm start
 ```
