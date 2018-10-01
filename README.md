@@ -1,5 +1,5 @@
 # React-Player
-A web app just like youtube made completely with React JS
+A web app faster, lighter than youtube made completely with React JS
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
